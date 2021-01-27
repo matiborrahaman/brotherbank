@@ -1,0 +1,45 @@
+body{
+    padding: 100px;
+}
+
+#login_area h1{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.bro{
+    color: rgb(206, 3, 3);
+}
+.submit_area{
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px gray;
+}
+#transction_area{
+    display: none;
+}
+
+.status{
+    color: #fff;
+    padding: 20px;
+    margin: 0 20px;
+    border-radius: 10px;
+    margin-top: 5px;
+
+}
+.diposit{
+    background-color: #117a8b;
+}
+.withdraw{
+    background-color:#dc3545;
+    
+}
+.balance{
+    background-color: #d39e00;
+}
+
+.dipo_withdraw_area{
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px gray;
+}
